@@ -1,0 +1,26 @@
+// overwrite the style of vxe-table
+#root {
+    .vxe-cell--label, .vxe-table, .vxe-checkbox {
+        font-size: $fontSizeNormal;
+    }
+    .vxe-checkbox:not(.is--disabled)>input:focus+.vxe-checkbox--icon {
+        box-shadow: none;
+    }
+    .vxe-header--column {
+        height: 38px;
+        font-weight: $fontWeightSliceBold;
+    }
+    // clear large size's style will incorrectly show in table
+    .vxe-table.size--small .vxe-body--column.col--ellipsis>.vxe-cell {
+        max-height: none;
+    }
+    .vxe-table .vxe-body--column.col--ellipsis:not(.col--actived)>.vxe-cell {
+        overflow: initial;
+        white-space: initial;
+        text-overflow: initial;
+    }
+}
+.number {
+    color: $primaryFont;
+    text-decoration: none;
+}

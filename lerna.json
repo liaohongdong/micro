@@ -1,0 +1,26 @@
+{
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "packages": [
+    "packages/@micro/*"
+  ],
+  "version": "independent",
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "**/__fixtures__/**",
+        "**/__tests__/**",
+        "**/test/**",
+        "**/node_modules/**",
+        "**/.browserslistrc",
+        "**/.editorconfig",
+        "**/.eslintignore",
+        "**/.eslintrc.js",
+        "**/.npmignore",
+        "**/babel.config.js",
+        "**/vue.config.js"
+      ],
+      "message": "chore: publish"
+    }
+  }
+}

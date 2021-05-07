@@ -1,0 +1,120 @@
+/*
+----------------------------
+----------------------------
+------- Sidebar Section ------
+----------------------------
+----------------------------
+*/
+
+$sidebarWidth: 200px;
+$collapseSidebarWidth: 60px;
+$sidebarChildrenMenuWidth: 140px;
+
+/*
+----------------------------
+----------------------------
+------- Color Section ------
+----------------------------
+----------------------------
+*/
+$primaryColor: #3377FF; // 主要颜色
+$secondBg: #a0cfff; // 次要颜色
+$secondPrimaryColor: #a0cfff; // 次要颜色
+$danger: #F56C6C; // 报错颜色
+$labelRed: #F56C6C; // 报错颜色
+$info: #909399; // 提示文字颜色
+$white: #FFFFFF; // 白色
+$blockBgColor: #F2F2F2; // 白色
+$primaryBlack: #303133; // 主体黑，主要字体颜色
+$secondaryBlack: #606266; // 次要黑，次要字体颜色
+$primaryGrey: #909399; // 主灰，字体颜色
+$secondaryGrey: #BFBFBF; // 次灰，字体颜色
+$searchMain: #F7F9FB; // 旧版搜索框背景颜色
+$btnHoverBgColor: #EEF0F1;
+$successColor: #67c23a; // 成功颜色
+$infoColor: #909399; // 信息颜色
+$warningColor: #e6a23c; // 警告颜色
+$dangerColor: #f56c6c; // 危险颜色
+$iconFontBgColor:#F0F2F5; // iconfong hover 背景颜色
+$sidebarBgColor: #1e1e27; // 菜单栏背景颜色
+
+/*
+----------------------------
+----------------------------
+------- Font Section ------
+----------------------------
+----------------------------
+*/
+$iconLargest: 24px; // 一级标题
+
+$fontSize18: 18px; // 一级标题
+$fontSizeOverSize: 16px; // 弹窗标题
+$fontSizeLarge: 14px; // 偏大字体 (二级标题)
+
+$fontSizeNormal: 13px; // 一般字体大小
+$fontSizeSmall: 12px; // 小号字体大小
+
+$fontWeightBold: 800; // 最粗字体 (标题等)
+$fontWeightLightBold: 600; // 次粗字体 (二级标题等)
+$fontWeightSliceBold: 500; // 次粗字体 (二级标题等)
+$fontWeightNormal: 400; // 正常字体大小
+
+$primaryFont: #303133; // 主要字体颜色 (表头，标题等)
+$regularFont: #606266;  // 次要字体颜色 (文本内容)
+$secondaryFont: #909399; // 再次要字体颜色 (禁用文字等)
+$placeholderFont: #C0C4CC; // 提示字体颜色 (placeholder 等)
+
+
+
+
+/*
+----------------------------
+----------------------------
+------- Margin Section -----
+----------------------------
+----------------------------
+*/
+
+$commonMargin: 20px;
+$commonTopMargin: 16px;
+
+
+/*
+----------------------------
+----------------------------
+------- Overwrite Section -----
+----------------------------
+----------------------------
+*/
+
+$border-grey: #E4E7ED;
+$EL_DIALOGUE_MAX_HEIGHT: 700px;
+
+// 阴影
+$boxShadow: 0px 1px 4px 0px rgba(48, 49, 51, 0.2);
+
+
+
+
+// 头部样式变量
+$navHeight: 44px;
+$header-background: #ededed;
+$header-color: #2a3f54;
+$header-padding: 15px;
+
+// 左侧菜单样式变量
+$menu-background: #2A3F54;
+$menu-color: #fff;
+$menu_active_color: #ffd04b;
+$menu_width: 200px;
+// 主视图区样式变量
+$main_base_color: #f2f3f3;
+$main_body_padding: 8px;
+// 页面标签页样式
+
+// 静态服务器地址
+$assets: '//nextop-saas-web-static-prod.oss-cn-shenzhen.aliyuncs.com/nextop-erp-micro';
+
+:export {
+    assets: $assets;
+}

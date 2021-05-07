@@ -1,0 +1,8 @@
+/*
+ * @Author: hongdong.liao
+ * @Date: 2021-03-29 10:34:12
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-03-29 10:46:25
+ * @FilePath: /nextop/packages/@nextop/nextop-core/directives/index.js
+ */
+export * from './permission'; // 微前端权限

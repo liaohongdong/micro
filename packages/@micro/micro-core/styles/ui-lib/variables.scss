@@ -1,0 +1,18 @@
+$--color-primary: $primaryColor;
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import "~element-ui/packages/theme-chalk/src/index";
+
+// overwrite the default theme of vxe-table
+@import 'vxe-table/styles/variable.scss';
+
+    // 局部修改变量
+    $vxe-font-size: $fontSizeNormal;
+    $vxe-primary-color: $primaryColor;
+    $vxe-table-font-color: $secondaryBlack;
+    $vxe-table-border-color: #e8eaec;
+    $vxe-table-border-radius: 2px;
+    // ...
+
+@import 'vxe-table/styles/modules.scss';

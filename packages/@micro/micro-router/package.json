@@ -1,0 +1,38 @@
+{
+  "name": "@nextop/nextop-router",
+  "author": "hongdong.liao <liaodoho@gmail.com>",
+  "version": "0.0.4",
+  "description": "微前端路由库",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-dir lib --extensions '.ts' --extensions '.js'"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.nextop.cc/nextop-web-micro/nextop"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.13.13",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@babel/plugin-transform-modules-umd": "^7.13.0",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-typescript": "^7.12.7",
+    "@nextop/nextop-core": "0.0.28-alpha.20",
+    "@vantop/vantop-util": "^1.0.61"
+  },
+  "gitHead": "576165f93f3cc320f0cd5ed8e908af77b9b561d7"
+}

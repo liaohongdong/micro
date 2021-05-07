@@ -1,0 +1,53 @@
+{
+    "name": "@nextop/nextop-core",
+    "author": "hongdong.liao <liaodoho@gmail.com>",
+    "version": "0.0.32",
+    "description": "核心库",
+    "homepage": "",
+    "license": "ISC",
+    "main": "lib/index.js",
+    "scripts": {
+        "build:babel": "./node_modules/.bin/babel src --out-dir lib --extensions '.ts' --extensions '.js'",
+        "build": "./node_modules/.bin/babel src --out-dir lib --extensions '.ts' --extensions '.js'",
+        "build:rollup": "rollup -c",
+        "build:webpack": "webpack",
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib",
+        "styles",
+        "mixins",
+        "src",
+        "directives"
+    ],
+    "publishConfig": {
+        "registry": "http://registry.npmjs.org/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://git.nextop.cc/nextop-web-micro/nextop"
+    },
+    "keywords": [
+    ],
+    "devDependencies": {
+        "@babel/cli": "^7.12.10",
+        "@babel/core": "^7.12.10",
+        "@babel/node": "^7.12.10",
+        "@babel/plugin-proposal-class-properties": "^7.12.1",
+        "@babel/plugin-transform-modules-umd": "^7.13.0",
+        "@babel/preset-env": "^7.12.11",
+        "node-sass": "^5.0.0",
+        "rollup": "^2.38.4",
+        "rollup-plugin-postcss": "^4.0.0",
+        "webpack": "^5.36.1",
+        "webpack-cli": "^4.6.0"
+    },
+    "dependencies": {
+        "dayjs": "^1.10.3"
+    },
+    "gitHead": "39e9b7d112e4c04bdc9fb8b30e12f3adfd8c7e01"
+}

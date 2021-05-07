@@ -1,0 +1,42 @@
+[
+    {
+        "icon": "iconfont icon-sidebar-commodity",
+        "id": 1,
+        "name": "商品",
+        "path": "/goods",
+        "children": [
+            {
+                "icon": "iconfont iconicon_secret",
+                "id": 270228,
+                "name": "分类管理",
+                "path": "/goods/Categories/Categories"
+            },
+            {
+                "icon": "iconfont iconicon_QRcode",
+                "id": 270229,
+                "name": "属性管理",
+                "path": "/goods/attribute/attributeList"
+            }
+        ]
+    },
+     {
+        "icon": "iconfont icon-sidebar-purchase",
+        "id": 270289,
+        "name": "采购",
+        "path": "/purchase",
+        "children": [
+            {
+                "icon": "iconfont icon-purchase",
+                "id": 270290,
+                "name": "供应商管理",
+                "path": "/purchase/supplier/index"
+            },
+            {
+                "icon": "iconfont iconicon_dispose",
+                "id": 270293,
+                "name": "供应商SKU管理",
+                "path": "/purchase/supplierSku/index"
+            }
+        ]
+    }
+]

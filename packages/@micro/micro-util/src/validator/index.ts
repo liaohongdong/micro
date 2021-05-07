@@ -1,0 +1,13 @@
+export  *  from './isFunc';
+export { default as isURL } from './isURL';
+export { default as isNull } from './isNull';
+export { default as isEmail } from './isEmail';
+export { default as isEmpty } from './isEmpty';
+export { default as isPhone } from './isPhone';
+export { default as isIdCard } from './isIdCard';
+export { default as isMobile } from './isMobile';
+export { default as isAlphabets } from './isAlphabets';
+export { default as isLowerCase } from './isLowerCase';
+export { default as isUpperCase } from './isUpperCase';
+export { default as isNumCombineLetter } from './isNumCombineLetter';
+export { default as isObjDeepEqual } from './isObjDeepEqual';
