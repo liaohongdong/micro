@@ -19,7 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.nextop.cc/FE-Lab/vantop-util.git"
   },
   "scripts": {
     "serve": "gulp serve",

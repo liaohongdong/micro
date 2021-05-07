@@ -1,12 +1,18 @@
 {
-  "name": "@micro/micro-router",
+  "name": "@nextop/nextop-http",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.4",
-  "description": "微前端路由库",
+  "version": "0.0.37",
+  "description": "网络通讯库",
+  "keywords": [
+    "http"
+  ],
+  "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
   "scripts": {
-    "build": "./node_modules/.bin/babel src --out-dir lib --extensions '.ts' --extensions '.js'"
+    "build": "./node_modules/.bin/babel src --out-dir lib --extensions '.ts' --extensions '.js'",
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build:webpack": "webpack"
   },
   "directories": {
     "lib": "lib",
@@ -16,23 +22,29 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "http://npm.nextop.cc/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liaohongdong/micro"
+    "url": "http://git.nextop.cc/nextop-web-micro/nextop"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
-    "@babel/node": "^7.13.13",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
     "@babel/plugin-transform-modules-umd": "^7.13.0",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-typescript": "^7.12.7",
-    "@micro/micro-core": "0.0.28-alpha.20",
-    "@vantop/vantop-util": "^1.0.61"
+    "@nextop/nextop-core": "0.0.28-alpha.20",
+    "@vantop/vantop-util": "1.0.60",
+    "webpack": "^5.36.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "element-ui": "^2.15.0",
+    "nprogress": "^0.2.0"
   },
   "gitHead": "576165f93f3cc320f0cd5ed8e908af77b9b561d7"
 }

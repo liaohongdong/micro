@@ -19,7 +19,6 @@
     },
     "files": [
         "lib",
-        "styles",
         "mixins",
         "src",
         "directives"
@@ -29,7 +28,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "http://git.nextop.cc/nextop-web-micro/nextop"
+        "url": "https://github.com/liaohongdong/micro"
     },
     "keywords": [
     ],
