@@ -3,7 +3,7 @@
  * @Date: 2021-02-22 12:14:58
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-02-22 12:20:42
- * @FilePath: /nextop/packages/@nextop/nextop-core/src/lang/en/index.js
+ * @FilePath: /nextop/packages/@micro/micro-core/src/lang/en/index.js
  */
 import common from './common';
 import tags from './tags';

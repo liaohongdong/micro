@@ -3,7 +3,7 @@
  * @Date: 2021-02-22 12:15:08
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-02-22 12:21:39
- * @FilePath: /nextop/packages/@nextop/nextop-core/src/lang/zh/common.js
+ * @FilePath: /nextop/packages/@micro/micro-core/src/lang/zh/common.js
  */
 export default {
     test: '测试',

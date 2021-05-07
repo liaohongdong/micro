@@ -3,8 +3,8 @@
  * @Date: 2021-04-30 18:40:04
  * @LastEditors: lingyong.zeng
  * @LastEditTime: 2021-04-30 18:48:01
- * @Description: 
- * @FilePath: /nextop/packages/@nextop/nextop-core/src/utils/assets.js
+ * @Description:
+ * @FilePath: /nextop/packages/@micro/micro-core/src/utils/assets.js
  */
 // import variables from '../../styles/variables.scss';
 

@@ -3,7 +3,7 @@
  * @Date: 2021-03-29 10:34:27
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-03-29 11:09:44
- * @FilePath: /nextop/packages/@nextop/nextop-core/src/directives/permission.js
+ * @FilePath: /nextop/packages/@micro/micro-core/src/directives/permission.js
  */
 import { LocalStorage, } from '../storage';
 

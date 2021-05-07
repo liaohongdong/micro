@@ -1,5 +1,5 @@
 {
-  "name": "@nextop/nextop-router",
+  "name": "@micro/micro-router",
   "author": "hongdong.liao <liaodoho@gmail.com>",
   "version": "0.0.4",
   "description": "微前端路由库",
@@ -31,7 +31,7 @@
     "@babel/plugin-transform-modules-umd": "^7.13.0",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-typescript": "^7.12.7",
-    "@nextop/nextop-core": "0.0.28-alpha.20",
+    "@micro/micro-core": "0.0.28-alpha.20",
     "@vantop/vantop-util": "^1.0.61"
   },
   "gitHead": "576165f93f3cc320f0cd5ed8e908af77b9b561d7"

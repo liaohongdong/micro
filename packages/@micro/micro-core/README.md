@@ -1,11 +1,11 @@
-# `@nextop/nextop-core`
+# `@micro/micro-core`
 
 > TODO: description
 
 ## Usage
 
 ```
-const nextopCore = require('@nextop/nextop-core');
+const nextopCore = require('@micro/micro-core');
 
 // TODO: DEMONSTRATE API
 ```

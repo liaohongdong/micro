@@ -1,5 +1,5 @@
 {
-    "name": "@nextop/nextop-core",
+    "name": "@micro/micro-core",
     "author": "hongdong.liao <liaodoho@gmail.com>",
     "version": "0.0.32",
     "description": "核心库",

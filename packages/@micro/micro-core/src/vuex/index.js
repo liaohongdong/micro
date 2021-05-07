@@ -3,7 +3,7 @@
  * @Date: 2021-03-02 11:02:04
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-03-02 11:03:15
- * @FilePath: /nextop/packages/@nextop/nextop-core/src/vuex/index.js
+ * @FilePath: /nextop/packages/@micro/micro-core/src/vuex/index.js
  * @Description: 主应用的getters
  */
 export const mapParentGetters = function (...args) {

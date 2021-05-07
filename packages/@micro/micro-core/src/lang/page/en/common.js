@@ -3,7 +3,7 @@
  * @Date: 2021-02-22 12:15:03
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-02-22 12:17:07
- * @FilePath: /nextop/packages/@nextop/nextop-core/src/lang/en/common.js
+ * @FilePath: /nextop/packages/@micro/micro-core/src/lang/en/common.js
  */
 export default {
     test: 'test',

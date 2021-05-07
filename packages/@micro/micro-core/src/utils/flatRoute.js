@@ -3,7 +3,7 @@
  * @Date: 2021-02-02 16:07:54
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-02-02 18:46:43
- * @FilePath: /nextop/packages/@nextop/nextop-core/src/utils/flatRoute.js
+ * @FilePath: /nextop/packages/@micro/micro-core/src/utils/flatRoute.js
  */
 /**
  * @param {*} item 菜单数据

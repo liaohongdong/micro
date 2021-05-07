@@ -3,7 +3,7 @@
  * @Date: 2021-01-07 11:05:35
  * @LastEditors: lingyong.zeng
  * @LastEditTime: 2021-05-06 10:43:24
- * @FilePath: /nextop/packages/@nextop/nextop-core/src/utils/router.js
+ * @FilePath: /nextop/packages/@micro/micro-core/src/utils/router.js
  */
 import { isArray, isFunction, uniqBy, } from "@vantop/vantop-util";
 /**
