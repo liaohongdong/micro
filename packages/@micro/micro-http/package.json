@@ -1,7 +1,7 @@
 {
-  "name": "@nextop/nextop-http",
+  "name": "@micro/micro-http",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.37",
+  "version": "0.0.1",
   "description": "网络通讯库",
   "keywords": [
     "http"
@@ -22,11 +22,11 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://npm.nextop.cc/"
+    "registry": "http://npm.micro.cc/"
   },
   "repository": {
     "type": "git",
-    "url": "http://git.nextop.cc/nextop-web-micro/nextop"
+    "url": "http://git.micro.cc/micro-web-micro/micro"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",

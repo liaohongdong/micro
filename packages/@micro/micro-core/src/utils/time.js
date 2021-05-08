@@ -3,7 +3,7 @@
  * @Date: 2021-01-05 15:50:26
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-01-05 15:57:00
- * @FilePath: /vantop/packages/@vantop/vantop-core/src/utils/time.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/utils/time.js
  * @description 时间操作方法
  */
 

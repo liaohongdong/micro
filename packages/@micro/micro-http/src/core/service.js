@@ -3,12 +3,12 @@
  * @Date: 2021-01-05 18:17:05
  * @LastEditors: lingyong.zeng
  * @LastEditTime: 2021-05-06 09:05:12
- * @FilePath: /nextop-http/src/core/service.js
+ * @FilePath: /micro-http/src/core/service.js
  */
 import axios from 'axios';
 import Http from '../utils/http';
 // import { addAxiosCancel } from './cancel';
-import { LocalStorage, logout } from '@nextop/nextop-core';
+import { LocalStorage, logout } from '@micro/micro-core';
 import { Message, } from 'element-ui';
 import NProgress from 'nprogress';
 import { VUE_APP_BASE_API_GW } from '../config/settings';

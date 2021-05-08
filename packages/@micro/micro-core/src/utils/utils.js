@@ -3,7 +3,7 @@
  * @Date: 2021-01-05 15:50:35
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-01-05 15:57:51
- * @FilePath: /vantop/packages/@vantop/vantop-core/src/utils/utils.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/utils/utils.js
  * @description 通用工具函数
  */
 

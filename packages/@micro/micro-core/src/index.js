@@ -3,7 +3,7 @@
  * @Date: 2021-01-05 16:57:40
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-04-29 15:05:30
- * @FilePath: /nextop/packages/@micro/micro-core/src/index.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/index.js
  */
 // import DataType from "./utils/type"
 import Time from "./utils/time"

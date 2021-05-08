@@ -3,12 +3,12 @@
  * @Date: 2021-01-05 16:59:25
  * @LastEditors: lingyong.zeng
  * @LastEditTime: 2021-04-27 19:20:15
- * @FilePath: /nextop/packages/@nextop/nextop-http/src/utils/axios.js
+ * @FilePath: /micro/packages/@micro/micro-http/src/utils/axios.js
  * @description axios通信类封装
  */
 
 import axios from "axios"; // 导入axios库
-import { isObject, isArray } from "@vantop/vantop-util"
+import { isObject, isArray } from "@micro/micro-util"
 import { _httpOptions } from "../config/settings"; // 导入配置项
 import { HttpCode, StatusCode } from "../config/HttpCode";
 import NProgress from 'nprogress';

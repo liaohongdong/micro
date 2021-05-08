@@ -3,10 +3,10 @@
  * @Date: 2021-01-05 16:59:25
  * @LastEditors: lingyong.zeng
  * @LastEditTime: 2021-05-06 09:04:36
- * @FilePath: /nextop-http/src/config/settings.js
+ * @FilePath: /micro-http/src/config/settings.js
  */
 export const _httpOptions = {
-  baseURL: '//api.nextop.cc', // api的base_url
+  baseURL: '//api.micro.cc', // api的base_url
   retry: 3,
   retryDelay: 1000,
   withCredentials: true,
@@ -35,4 +35,4 @@ export const _httpCode = {
   noAuth: 401
 }
 
-export const VUE_APP_BASE_API_GW = '//api.nextop.cc';
+export const VUE_APP_BASE_API_GW = '//api.micro.cc';

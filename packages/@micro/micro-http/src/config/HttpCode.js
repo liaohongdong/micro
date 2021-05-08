@@ -3,7 +3,7 @@
  * @Date: 2021-01-12 10:42:55
  * @LastEditors: lingyong.zeng
  * @LastEditTime: 2021-05-06 09:01:12
- * @FilePath: /nextop/packages/@nextop/nextop-http/src/config/HttpCode.js
+ * @FilePath: /micro/packages/@micro/micro-http/src/config/HttpCode.js
  */
 
 let httpCode;

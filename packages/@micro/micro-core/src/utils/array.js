@@ -3,7 +3,7 @@
  * @Date: 2021-01-05 15:48:34
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-01-13 09:45:34
- * @FilePath: /vantop/packages/@vantop/vantop-core/src/utils/array.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/utils/array.js
  * @description: 一个数组操作函数库
  */
 

@@ -12,7 +12,7 @@ export class LocalStorage {
     // 设置localStorage
     public static set<U>(key: string, value: U, expires?: number): void {
         // try {
-        if (!localStorage) throw new Error('[Vantop Util] LocalStorage must run in a browser environment!');
+        if (!localStorage) throw new Error('[micro Util] LocalStorage must run in a browser environment!');
         if (!key) throw new Error('Did not set the Unique Key!');
         const storeObj: StorageStore<U> = {
             data: value,
@@ -27,7 +27,7 @@ export class LocalStorage {
     //获取localStorage
     public static get<V>(key: string): V | null {
         // try {
-        if (!localStorage) throw new Error('[Vantop Util] LocalStorage must run in a browser environment!');
+        if (!localStorage) throw new Error('[micro Util] LocalStorage must run in a browser environment!');
         if (!key) return null;
         const value = localStorage.getItem(key);
         if (value === null) return null;
@@ -46,7 +46,7 @@ export class LocalStorage {
     //移除某个localStorage
     public static remove(key: string): void {
         // try {
-        if (!localStorage) throw new Error('[Vantop Util] LocalStorage must run in a browser environment!');
+        if (!localStorage) throw new Error('[micro Util] LocalStorage must run in a browser environment!');
         localStorage.removeItem(key);
         // } catch (err) {
         //     throw new Error(`LocalStorage.removeItem error: ${err}`);

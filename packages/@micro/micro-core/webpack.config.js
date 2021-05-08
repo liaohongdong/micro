@@ -4,7 +4,7 @@ module.exports = {
     mode: 'development',
     entry: './src/index.js',
     output: {
-        library: 'NextopCore',
+        library: 'microCore',
         libraryTarget: 'umd',
         path: path.resolve(__dirname, 'lib'),
         filename: 'index.min.js'
@@ -22,7 +22,7 @@ module.exports = {
         'vue-router': 'VueRouter',
         'axios': 'axios',
         'vue': 'Vue',
-        '@vantop/vantop-util': 'VantopUtil',
+        '@micro/micro-util': 'microUtil',
         'async-validator': 'AsyncValidator',
         'nprogress': 'NProgress',
     },

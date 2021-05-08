@@ -1,11 +1,11 @@
-# `@nextop/nextop-http`
+# `@micro/micro-http`
 
 > TODO: description
 
 ## Usage
 
 ```
-const nextopHttp = require('@nextop/nextop-http');
+const microHttp = require('@micro/micro-http');
 
 // TODO: DEMONSTRATE API
 ```

@@ -1,7 +1,7 @@
 {
     "name": "@micro/micro-core",
     "author": "hongdong.liao <liaodoho@gmail.com>",
-    "version": "0.0.32",
+    "version": "0.0.1",
     "description": "核心库",
     "homepage": "",
     "license": "ISC",

@@ -3,7 +3,7 @@
  * @Date: 2021-01-05 15:50:30
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-01-12 19:01:37
- * @FilePath: /vantop/packages/@vantop/vantop-core/src/utils/type.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/utils/type.js
  * @description 类型检查基础类
  */
 

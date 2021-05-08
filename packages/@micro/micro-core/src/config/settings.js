@@ -3,7 +3,7 @@
  * @Date: 2021-01-05 15:49:12
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-01-05 19:31:10
- * @FilePath: /vantop/packages/@vantop/vantop-core/src/config/settings.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/config/settings.js
  */
 // 基础配置项
 

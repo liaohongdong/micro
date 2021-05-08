@@ -1,9 +1,9 @@
 /*
  * @Author: hongdong.liao
  * @Date: 2021-01-05 16:57:40
- * @LastEditors: lingyong.zeng
- * @LastEditTime: 2021-04-27 18:06:17
- * @FilePath: /nextop/packages/@nextop/nextop-http/src/index.js
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-05-08 11:57:18
+ * @FilePath: /micro/packages/@micro/micro-http/src/index.js
  */
 import http from "./core/service"
 

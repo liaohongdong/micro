@@ -1283,7 +1283,7 @@
                         "url": "/goods/listing/index",
                         "perms": null,
                         "type": 1,
-                        "icon": "iconfont icon-Nextop_order_verify",
+                        "icon": "iconfont icon-micro_order_verify",
                         "orders": 10,
                         "code": "amazon-listing",
                         "systemType": null,

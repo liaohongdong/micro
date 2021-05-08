@@ -3,7 +3,7 @@
  * @Date: 2021-01-29 14:43:55
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-04-19 18:36:43
- * @FilePath: /nextop/packages/@micro/micro-core/src/storage/keys.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/storage/keys.js
  */
 /**
  * inner core project

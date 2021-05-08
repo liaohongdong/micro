@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { LocalStorage, } from '@nextop/nextop-core';
+import { LocalStorage, } from '@micro/micro-core';
 import { VUE_APP_BASE_API_GW } from '../config/settings';
 
 let instance = axios.create({ baseURL: VUE_APP_BASE_API_GW, });

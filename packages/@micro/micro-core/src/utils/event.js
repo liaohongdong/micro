@@ -3,7 +3,7 @@
  * @Date: 2021-01-05 15:50:03
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-01-05 15:53:29
- * @FilePath: /vantop/packages/@vantop/vantop-core/src/utils/event.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/utils/event.js
  * @description event事件库
  */
 

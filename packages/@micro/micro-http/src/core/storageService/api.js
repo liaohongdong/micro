@@ -3,8 +3,8 @@
  * @Date: 2021-04-27 16:53:51
  * @LastEditors: lingyong.zeng
  * @LastEditTime: 2021-04-28 12:18:30
- * @Description: 
- * @FilePath: /nextop-http/src/core/storageService/api.js
+ * @Description:
+ * @FilePath: /micro-http/src/core/storageService/api.js
  */
 
 import http from "../../core/service";

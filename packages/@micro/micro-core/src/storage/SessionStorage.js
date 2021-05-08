@@ -5,7 +5,7 @@ import {
     TENANT_INFO,
 } from './keys';
 import { LocalStorage } from './LocalStorage';
-const prefix = 'nextop-micro:';
+const prefix = 'micro-micro:';
 export class SessionStorage {
     static _set(key, val) {
         return window.sessionStorage.setItem(`${prefix}${key}`, JSON.stringify(val));

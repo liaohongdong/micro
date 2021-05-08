@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-const nextopCore = require('@micro/micro-core');
+const microCore = require('@micro/micro-core');
 
 // TODO: DEMONSTRATE API
 ```

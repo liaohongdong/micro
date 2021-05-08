@@ -3,10 +3,10 @@
  * @Date: 2021-05-07 18:58:04
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-05-07 19:03:01
- * @FilePath: /nextop/packages/@nextop/nextop-http/src/core/download.js
+ * @FilePath: /micro/packages/@micro/micro-http/src/core/download.js
  */
 import axios from 'axios';
-import { LocalStorage, } from '@nextop/nextop-core';
+import { LocalStorage, } from '@micro/micro-core';
 import { Message, } from 'element-ui';
 import { VUE_APP_BASE_API_GW } from '../config/settings';
 

@@ -3,7 +3,7 @@
  * @Date: 2021-01-13 10:26:25
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-04-20 11:11:51
- * @FilePath: /nextop/packages/@micro/micro-core/src/storage/LocalStorage.js
+ * @FilePath: /micro/packages/@micro/micro-core/src/storage/LocalStorage.js
  */
 import {
     AUTH_CODE_LIST,
@@ -23,7 +23,7 @@ import {
     INIT404LIST,
 } from './keys';
 
-const prefix = 'nextop-micro:';
+const prefix = 'micro-micro:';
 export class LocalStorage {
     static _set(key, val) {
         return window.localStorage.setItem(`${prefix}${key}`, JSON.stringify(val));

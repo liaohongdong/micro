@@ -3,7 +3,7 @@
  * @Date: 2021-01-05 16:59:25
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-01-29 16:36:42
- * @FilePath: /nextop/packages/@nextop/nextop-http/src/utils/http.js
+ * @FilePath: /micro/packages/@micro/micro-http/src/utils/http.js
  * @description 基于./Axios的请求封装
  */
 

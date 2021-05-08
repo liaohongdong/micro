@@ -7,7 +7,7 @@ export const globalHandleException = {
                 return;
             }
             // eslint-disable-next-line no-console
-            console.error(`[Vantop Error]: global handle exception caught error: ${err.msg || err}`);
+            console.error(`[micro Error]: global handle exception caught error: ${err.msg || err}`);
             this.$message.error(err);
         },
     },

@@ -1,7 +1,7 @@
 import page from './page/en';
 
 export default {
-    title: 'nextop',
+    title: 'micro',
     add: 'Add',
     edit: 'Edit',
     delete: 'Delete',

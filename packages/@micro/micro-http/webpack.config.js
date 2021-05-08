@@ -3,8 +3,8 @@
  * @Date: 2021-05-06 19:59:15
  * @LastEditors: lingyong.zeng
  * @LastEditTime: 2021-05-06 20:21:53
- * @Description: 
- * @FilePath: /packages/@nextop/nextop-http/webpack.config.js
+ * @Description:
+ * @FilePath: /packages/@micro/micro-http/webpack.config.js
  */
 const path = require('path');
 
@@ -12,7 +12,7 @@ module.exports = {
     mode: 'development',
     entry: './src/index.js',
     output: {
-        library: 'NextopHttp',
+        library: 'microHttp',
         libraryTarget: 'umd',
         libraryExport: undefined,
         path: path.resolve(__dirname, 'lib'),
@@ -22,8 +22,8 @@ module.exports = {
         'vue-router': 'VueRouter',
         'axios': 'axios',
         'vue': 'Vue',
-        '@vantop/vantop-util': 'VantopUtil',
-        '@nextop/nextop-core': 'NextopCore',
+        '@micro/micro-util': 'microUtil',
+        '@micro/micro-core': 'microCore',
         'async-validator': 'AsyncValidator',
         'nprogress': 'NProgress',
         'element-ui': 'ELEMENT',

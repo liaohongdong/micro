@@ -3,7 +3,7 @@
  * @Date: 2021-05-06 09:56:40
  * @LastEditors: hongdong.liao
  * @LastEditTime: 2021-05-06 10:20:41
- * @FilePath: /nextop/packages/@micro/micro-router/src/index.js
+ * @FilePath: /micro/packages/@micro/micro-router/src/index.js
  */
 import { routerGo, routerReplace } from "./router";
 
