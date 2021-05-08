@@ -23,8 +23,7 @@
         "directives"
     ],
     "publishConfig": {
-        "registry": "http://registry.npmjs.org/",
-        "access": "public"
+        "registry": "http://registry.npmjs.org/"
     },
     "repository": {
         "type": "git",
