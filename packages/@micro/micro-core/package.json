@@ -1,7 +1,7 @@
 {
     "name": "@mc/micro-core",
     "author": "hongdong.liao <liaodoho@gmail.com>",
-    "version": "0.0.2-alpha.7+b9aa334",
+    "version": "0.0.2-alpha.8+b0dc02c",
     "description": "核心库",
     "homepage": "",
     "license": "ISC",
@@ -47,5 +47,5 @@
     "dependencies": {
         "dayjs": "^1.10.3"
     },
-    "gitHead": "b9aa334afe0db5eeccd73ed94d13308d4810f303"
+    "gitHead": "b0dc02cde90cfcbe3d52de6ea48b2676b4b631eb"
 }
