@@ -1,6 +1,6 @@
 {
-  "name": "@micro/micro-util",
-  "version": "0.0.2-alpha.4+e14846d",
+  "name": "@mc/micro-util",
+  "version": "0.0.2-alpha.5+1bdd073",
   "description": "> TODO: description",
   "author": "Sharly Liao, Yuancheng Cai, Xin Yi, Frank Wu, LingYong Zeng",
   "license": "Apache-2.0",
@@ -42,7 +42,7 @@
       "git add"
     ]
   },
-  "gitHead": "e14846d834c45498f4b019b06f0fdeb2a4c7a1f0",
+  "gitHead": "1bdd073305bd690d3c1f55f905a56e97bd21f496",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
     "@babel/core": "^7.14.0",
