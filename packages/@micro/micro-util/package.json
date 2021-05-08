@@ -3,7 +3,6 @@
   "version": "1.0.60",
   "description": "> TODO: description",
   "author": "Sharly Liao, Yuancheng Cai, Xin Yi, Frank Wu, LingYong Zeng",
-  "homepage": "http://git.nextop.cc/FE-Lab/vantop-util/blob/develop/README.md",
   "license": "Apache-2.0",
   "main": "lib/index.js",
   "directories": {
@@ -18,7 +17,7 @@
     "access": "public"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
   },
   "scripts": {
     "serve": "gulp serve",
@@ -43,11 +42,13 @@
       "git add"
     ]
   },
-  "bugs": {
-    "url": "http://git.nextop.cc/FE-Lab/vantop-util/issues"
-  },
   "gitHead": "5345d02000f9e3935c87507e09b0a95c64666383",
   "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/node": "^7.13.13",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/preset-env": "^7.14.1",
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
     "@types/chai": "^4.2.14",
