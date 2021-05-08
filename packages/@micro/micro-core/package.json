@@ -1,7 +1,7 @@
 {
     "name": "@micro/micro-core",
     "author": "hongdong.liao <liaodoho@gmail.com>",
-    "version": "0.0.1",
+    "version": "0.0.2-alpha.4+e14846d",
     "description": "核心库",
     "homepage": "",
     "license": "ISC",
@@ -23,14 +23,14 @@
         "directives"
     ],
     "publishConfig": {
-        "registry": "http://registry.npmjs.org/"
+        "registry": "http://registry.npmjs.org/",
+        "access": "public"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/liaohongdong/micro"
     },
-    "keywords": [
-    ],
+    "keywords": [],
     "devDependencies": {
         "@babel/cli": "^7.12.10",
         "@babel/core": "^7.12.10",
@@ -47,5 +47,5 @@
     "dependencies": {
         "dayjs": "^1.10.3"
     },
-    "gitHead": "39e9b7d112e4c04bdc9fb8b30e12f3adfd8c7e01"
+    "gitHead": "e14846d834c45498f4b019b06f0fdeb2a4c7a1f0"
 }

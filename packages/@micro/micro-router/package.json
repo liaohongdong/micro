@@ -1,7 +1,7 @@
 {
   "name": "@micro/micro-router",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2-alpha.4+e14846d",
   "description": "微前端路由库",
   "license": "ISC",
   "main": "lib/index.js",
@@ -16,7 +16,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "http://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -32,5 +33,5 @@
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-typescript": "^7.12.7"
   },
-  "gitHead": "576165f93f3cc320f0cd5ed8e908af77b9b561d7"
+  "gitHead": "e14846d834c45498f4b019b06f0fdeb2a4c7a1f0"
 }

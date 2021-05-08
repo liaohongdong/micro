@@ -1,7 +1,7 @@
 {
   "name": "@micro/micro-http",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2-alpha.4+e14846d",
   "description": "网络通讯库",
   "keywords": [
     "http"
@@ -22,7 +22,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://npm.micro.cc/"
+    "registry": "http://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -44,5 +45,5 @@
     "element-ui": "^2.15.0",
     "nprogress": "^0.2.0"
   },
-  "gitHead": "576165f93f3cc320f0cd5ed8e908af77b9b561d7"
+  "gitHead": "e14846d834c45498f4b019b06f0fdeb2a4c7a1f0"
 }
