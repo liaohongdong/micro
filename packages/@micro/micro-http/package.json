@@ -1,7 +1,7 @@
 {
-  "name": "@micro/micro-http",
+  "name": "@mc/micro-http",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.2-alpha.5+1bdd073",
+  "version": "0.0.2-alpha.7+b9aa334",
   "description": "网络通讯库",
   "keywords": [
     "http"
@@ -45,5 +45,5 @@
     "element-ui": "^2.15.0",
     "nprogress": "^0.2.0"
   },
-  "gitHead": "1bdd073305bd690d3c1f55f905a56e97bd21f496"
+  "gitHead": "b9aa334afe0db5eeccd73ed94d13308d4810f303"
 }
