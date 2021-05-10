@@ -1,7 +1,7 @@
 {
   "name": "@fe-micro/micro-http",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.2-alpha.18+49eefb5",
+  "version": "0.0.2",
   "description": "网络通讯库",
   "keywords": [
     "http"

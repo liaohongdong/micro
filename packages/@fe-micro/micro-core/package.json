@@ -1,7 +1,7 @@
 {
     "name": "@fe-micro/micro-core",
     "author": "hongdong.liao <liaodoho@gmail.com>",
-    "version": "1.0.0-alpha.18+49eefb5",
+    "version": "1.0.0",
     "description": "核心库",
     "homepage": "",
     "license": "ISC",
