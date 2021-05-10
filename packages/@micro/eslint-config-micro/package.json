@@ -1,6 +1,6 @@
 {
   "name": "@fe-micro/eslint-config-micro",
-  "version": "1.0.0-alpha.21",
+  "version": "1.0.0",
   "description": "A eslint config for micro fe",
   "author": "hongdong.liao <liaodoho@gmail.com>",
   "license": "MIT",

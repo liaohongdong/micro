@@ -1,7 +1,7 @@
 'use strict';
 
-const eslintConfigVantop = require('..');
+const eslintConfigMicro = require('..');
 
-describe('eslint-config-vantop', () => {
+describe('eslint-config-micro', () => {
     it('needs tests');
 });

@@ -2,8 +2,8 @@
  * @Author: hongdong.liao
  * @Date: 2021-05-10 10:05:12
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-05-10 10:05:40
- * @FilePath: /microDemo/micro/packages/@micro/eslint-config-vantop/.cz-config.js
+ * @LastEditTime: 2021-05-10 10:19:18
+ * @FilePath: /microDemo/micro/packages/@micro/eslint-config-micro/.cz-config.js
  */
 module.exports = {
     types: [
