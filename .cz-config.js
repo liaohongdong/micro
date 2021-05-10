@@ -2,8 +2,8 @@
  * @Author: hongdong.liao
  * @Date: 2021-01-05 16:22:42
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-05-07 18:47:21
- * @FilePath: /micro/.cz-config.js
+ * @LastEditTime: 2021-05-10 10:09:53
+ * @FilePath: /microDemo/micro/.cz-config.js
  */
 module.exports = {
   types: [
@@ -24,7 +24,8 @@ module.exports = {
     { name: 'micro-core' },
     { name: 'micro-http' },
     { name: 'micro-util' },
-    { name: 'micro-router' }
+    { name: 'micro-router' },
+    { name: 'eslint-config-micro' },
   ],
   allowTicketNumber: false,
   isTicketNumberRequired: false,
