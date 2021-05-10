@@ -1,4 +1,11 @@
-# `@micro/micro-util`
+<!--
+ * @Author: hongdong.liao
+ * @Date: 2021-05-08 11:57:59
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-05-10 15:33:07
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-util/README.md
+-->
+# `@fe-micro/micro-util`
 
 ## npm script
 

@@ -8,7 +8,7 @@
 /**
  * @param {*} item 菜单数据
  */
-import { isArray, cloneDeep } from "@micro/micro-util";
+import { isArray, cloneDeep } from "@fe-micro/micro-util";
 
 export const flatRoute = item => {
     if (!isArray(item)) {

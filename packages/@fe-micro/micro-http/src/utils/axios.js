@@ -1,14 +1,14 @@
 /*
  * @Author: hongdong.liao
  * @Date: 2021-01-05 16:59:25
- * @LastEditors: lingyong.zeng
- * @LastEditTime: 2021-04-27 19:20:15
- * @FilePath: /micro/packages/@micro/micro-http/src/utils/axios.js
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-05-10 15:32:57
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-http/src/utils/axios.js
  * @description axios通信类封装
  */
 
 import axios from "axios"; // 导入axios库
-import { isObject, isArray } from "@micro/micro-util"
+import { isObject, isArray } from "@fe-micro/micro-util"
 import { _httpOptions } from "../config/settings"; // 导入配置项
 import { HttpCode, StatusCode } from "../config/HttpCode";
 import NProgress from 'nprogress';

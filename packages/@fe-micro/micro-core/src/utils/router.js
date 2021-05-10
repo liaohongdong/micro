@@ -5,7 +5,7 @@
  * @LastEditTime: 2021-05-06 10:43:24
  * @FilePath: /micro/packages/@micro/micro-core/src/utils/router.js
  */
-import { isArray, isFunction, uniqBy, } from "@micro/micro-util";
+import { isArray, isFunction, uniqBy, } from "@fe-micro/micro-util";
 /**
  * 根据路由匹配地址
  * @param {*} data 路由数据

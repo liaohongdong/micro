@@ -5,7 +5,7 @@
  * @LastEditTime: 2021-05-06 11:35:10
  * @FilePath: /micro/packages/@micro/micro-router/src/router.js
  */
-import { isArray, isFunction, uniqBy, } from "@micro/micro-util";
+import { isArray, isFunction, uniqBy, } from "@fe-micro/micro-util";
 
 export function routerGo(href = '/', title = null, stateObj = {}) {
     window.history.pushState(stateObj, title, href);
