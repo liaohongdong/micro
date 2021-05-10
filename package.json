@@ -3,14 +3,14 @@
   "private": true,
   "author": "hongdong.liao <liaodoho@gmail.com>",
   "workspaces": [
-    "packages/@micro/*"
+    "packages/@fe-micro/*"
   ],
   "scripts": {
     "cz": "cz",
-    "build-core": "lerna run build --scope @micro/micro-core",
-    "build-http": "lerna run build --scope @micro/micro-http",
-    "build-util": "lerna run build --scope @micro/micro-util",
-    "build-router": "lerna run build --scope @micro/micro-router",
+    "build-core": "lerna run build --scope @fe-micro/micro-core",
+    "build-http": "lerna run build --scope @fe-micro/micro-http",
+    "build-util": "lerna run build --scope @fe-micro/micro-util",
+    "build-router": "lerna run build --scope @fe-micro/micro-router",
     "build": "concurrently \"npm run build-core\" \"npm run build-http\" \"npm run build-util\" \"npm run build-router\""
   },
   "keywords": [

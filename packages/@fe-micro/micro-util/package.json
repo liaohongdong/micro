@@ -21,7 +21,7 @@
   },
   "scripts": {
     "serve": "gulp serve",
-    "build": "tsc --outDir ./lib/ -w -p tsconfig.json",
+    "build": "tsc --outDir ./lib/ -p tsconfig.json",
     "test": "node test.js",
     "mocha": "TS_NODE_TRANSPILE_ONLY=true mocha -r ts-node/register -c",
     "commit": "git-cz",

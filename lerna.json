@@ -2,7 +2,7 @@
   "npmClient": "yarn",
   "useWorkspaces": true,
   "packages": [
-    "packages/@micro/*"
+    "packages/@fe-micro/*"
   ],
   "version": "independent",
   "command": {
