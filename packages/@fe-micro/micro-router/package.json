@@ -1,5 +1,5 @@
 {
-  "name": "@mc/micro-router",
+  "name": "@fe-micro/micro-router",
   "author": "hongdong.liao <liaodoho@gmail.com>",
   "version": "0.0.2-alpha.9+e3eacf2",
   "description": "微前端路由库",

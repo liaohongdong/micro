@@ -1,5 +1,5 @@
 {
-  "name": "@mc/micro-util",
+  "name": "@fe-micro/micro-util",
   "version": "0.0.2-alpha.9+e3eacf2",
   "description": "> TODO: description",
   "author": "Sharly Liao, Yuancheng Cai, Xin Yi, Frank Wu, LingYong Zeng",
@@ -21,8 +21,7 @@
   },
   "scripts": {
     "serve": "gulp serve",
-    "build": "NODE_ENV=production gulp build",
-    "build:tsc": "tsc --outDir ./lib/ -w -p tsconfig.json",
+    "build": "tsc --outDir ./lib/ -w -p tsconfig.json",
     "test": "node test.js",
     "mocha": "TS_NODE_TRANSPILE_ONLY=true mocha -r ts-node/register -c",
     "commit": "git-cz",
@@ -65,7 +64,7 @@
     "cz-customizable": "^6.3.0",
     "del": "^6.0.0",
     "eslint": "^7.13.0",
-    "eslint-config-micro": "^1.0.0",
+    "@fe-micro/eslint-config-micro": "^1.0.0",
     "gulp": "^4.0.2",
     "gulp-load-plugins": "^2.0.6",
     "gulp-nodemon": "^2.5.0",
