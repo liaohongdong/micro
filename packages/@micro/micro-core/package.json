@@ -1,7 +1,7 @@
 {
-    "name": "@mc/micro-core",
+    "name": "@fe-micro/micro-core",
     "author": "hongdong.liao <liaodoho@gmail.com>",
-    "version": "0.0.2-alpha.15",
+    "version": "1.0.0-alpha.21",
     "description": "核心库",
     "homepage": "",
     "license": "ISC",
@@ -23,7 +23,8 @@
         "directives"
     ],
     "publishConfig": {
-        "registry": "http://registry.npmjs.org/"
+        "registry": "http://registry.npmjs.org/",
+        "access": "public"
     },
     "repository": {
         "type": "git",
