@@ -1,7 +1,7 @@
 {
   "name": "@fe-micro/micro-router",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "微前端路由库",
   "license": "ISC",
   "main": "lib/index.js",
