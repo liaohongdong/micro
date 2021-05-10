@@ -1,10 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-01-13 10:26:25
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-04-20 11:11:51
- * @FilePath: /micro/packages/@micro/micro-core/src/storage/LocalStorage.js
- */
 import {
     AUTH_CODE_LIST,
     TOKEN_CACHE,

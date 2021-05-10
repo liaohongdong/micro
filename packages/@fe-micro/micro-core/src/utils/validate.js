@@ -1,13 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-01-05 15:50:39
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-01-19 09:55:06
- * @FilePath: /micro/packages/@micro/micro-core/src/utils/validate.js
- * des: el自定义表单验证及正则验证
- * rule：el校验以valid开头 validPhone；正则验证以reg开头
- */
-
 // el手机格式校验
 function validPhone(rule, value, callback) {
     if (!value || regPhone(value)) { callback(); } else { callback(new Error('请输入正确的手机号!')); }

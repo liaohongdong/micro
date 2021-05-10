@@ -1,10 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-01-07 11:05:35
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-05-06 11:35:10
- * @FilePath: /micro/packages/@micro/micro-router/src/router.js
- */
 import { isArray, isFunction, uniqBy, } from "@fe-micro/micro-util";
 
 export function routerGo(href = '/', title = null, stateObj = {}) {

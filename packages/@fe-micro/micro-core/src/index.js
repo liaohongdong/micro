@@ -1,9 +1,9 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-01-05 16:57:40
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-04-29 15:05:30
- * @FilePath: /micro/packages/@micro/micro-core/src/index.js
+ * @LastEditTime: 2021-05-10 15:49:05
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/index.js
  */
 // import DataType from "./utils/type"
 import Time from "./utils/time"

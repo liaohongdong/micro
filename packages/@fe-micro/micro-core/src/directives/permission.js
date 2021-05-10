@@ -1,10 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-03-29 10:34:27
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-03-29 11:09:44
- * @FilePath: /micro/packages/@micro/micro-core/src/directives/permission.js
- */
 import { LocalStorage, } from '../storage';
 
 export const permissionDirective = () => {

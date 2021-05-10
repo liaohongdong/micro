@@ -1,12 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-01-05 15:50:35
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-01-05 15:57:51
- * @FilePath: /micro/packages/@micro/micro-core/src/utils/utils.js
- * @description 通用工具函数
- */
-
 /**
 * @name处理下载接口返回的文件流数据
 * @param {*} res http请求返回数据

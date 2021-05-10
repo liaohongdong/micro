@@ -1,11 +1,10 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-01-12 10:42:55
- * @LastEditors: lingyong.zeng
- * @LastEditTime: 2021-05-06 09:01:12
- * @FilePath: /micro/packages/@micro/micro-http/src/config/HttpCode.js
+ * @Date: 2021-05-08 11:57:59
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-05-10 15:52:12
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-http/src/config/HttpCode.js
  */
-
 let httpCode;
 (function (HttpCode) {
     httpCode[httpCode["e400"] = 400] = "e400";

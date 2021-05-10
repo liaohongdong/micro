@@ -1,12 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-01-05 15:50:03
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-01-05 15:53:29
- * @FilePath: /micro/packages/@micro/micro-core/src/utils/event.js
- * @description event事件库
- */
-
 /**
  * @method 节流函数(500ms内只能点击一次，点击后立即触发，重复点击无效，必须等3s之后才能点击第二次)
  * @param {Function} {handler} 事件处理函数

@@ -1,12 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-01-05 15:49:12
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-01-05 19:31:10
- * @FilePath: /micro/packages/@micro/micro-core/src/config/settings.js
- */
-// 基础配置项
-
 // 存储类型
 export const _storageType = {
     Local: 'local',

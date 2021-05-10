@@ -1,10 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-02-22 12:15:03
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-02-22 12:17:07
- * @FilePath: /micro/packages/@micro/micro-core/src/lang/en/common.js
- */
 export default {
     test: 'test',
     '404': {

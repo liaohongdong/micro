@@ -1,10 +1,9 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-03-02 11:02:04
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-03-02 11:03:15
- * @FilePath: /micro/packages/@micro/micro-core/src/vuex/index.js
- * @Description: 主应用的getters
+ * @LastEditTime: 2021-05-10 15:51:24
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/vuex/index.js
  */
 export const mapParentGetters = function (...args) {
     let namespace = '';

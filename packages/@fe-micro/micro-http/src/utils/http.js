@@ -1,12 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-01-05 16:59:25
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-01-29 16:36:42
- * @FilePath: /micro/packages/@micro/micro-http/src/utils/http.js
- * @description 基于./Axios的请求封装
- */
-
 import Axios from './axios' // 导入Axios类
 import { _httpType } from "../config/settings" // 导入配置项
 

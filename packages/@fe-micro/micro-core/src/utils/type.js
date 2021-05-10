@@ -1,12 +1,10 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-01-05 15:50:30
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-01-12 19:01:37
- * @FilePath: /micro/packages/@micro/micro-core/src/utils/type.js
- * @description 类型检查基础类
+ * @LastEditTime: 2021-05-10 15:51:10
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/utils/type.js
  */
-
 export default class DataType {
     /**
      * @method 检测当前目标是否为对象

@@ -8,7 +8,7 @@
 import axios from 'axios';
 import Http from '../utils/http';
 // import { addAxiosCancel } from './cancel';
-import { LocalStorage, logout } from '@micro/micro-core';
+import { LocalStorage, logout } from '@fe-micro/micro-core';
 import { Message, } from 'element-ui';
 import NProgress from 'nprogress';
 import { VUE_APP_BASE_API_GW } from '../config/settings';

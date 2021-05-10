@@ -1,9 +1,9 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-02-22 12:15:03
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-02-22 12:19:35
- * @FilePath: /micro/packages/@micro/micro-core/src/lang/zh/app.js
+ * @LastEditTime: 2021-05-10 15:50:07
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/lang/page/zh/layout.js
  */
 export default {
     logout: '退出登录',

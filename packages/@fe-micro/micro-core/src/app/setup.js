@@ -1,10 +1,3 @@
-/*
- * @Author: hongdong.liao
- * @Date: 2021-01-29 14:49:03
- * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-04-16 17:44:43
- * @FilePath: /micro/packages/@micro/micro-core/src/app/setup.js
- */
 import Vue from 'vue'
 import VueRouter from "vue-router";
 import { LocalStorage } from '../storage';

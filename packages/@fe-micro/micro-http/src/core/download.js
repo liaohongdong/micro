@@ -1,12 +1,12 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-05-07 18:58:04
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-05-07 19:03:01
- * @FilePath: /micro/packages/@micro/micro-http/src/core/download.js
+ * @LastEditTime: 2021-05-10 15:52:24
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-http/src/core/download.js
  */
 import axios from 'axios';
-import { LocalStorage, } from '@micro/micro-core';
+import { LocalStorage, } from '@fe-micro/micro-core';
 import { Message, } from 'element-ui';
 import { VUE_APP_BASE_API_GW } from '../config/settings';
 

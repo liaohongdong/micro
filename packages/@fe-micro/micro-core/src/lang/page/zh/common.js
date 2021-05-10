@@ -1,9 +1,9 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-02-22 12:15:08
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-02-22 12:21:39
- * @FilePath: /micro/packages/@micro/micro-core/src/lang/zh/common.js
+ * @LastEditTime: 2021-05-10 15:50:00
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/lang/page/zh/common.js
  */
 export default {
     test: '测试',

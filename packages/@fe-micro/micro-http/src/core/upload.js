@@ -1,5 +1,12 @@
+/*
+ * @Author: hongdong.liao
+ * @Date: 2021-05-08 11:57:59
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-05-10 15:52:35
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-http/src/core/upload.js
+ */
 import axios from 'axios';
-import { LocalStorage, } from '@micro/micro-core';
+import { LocalStorage, } from '@fe-micro/micro-core';
 import { VUE_APP_BASE_API_GW } from '../config/settings';
 
 let instance = axios.create({ baseURL: VUE_APP_BASE_API_GW, });

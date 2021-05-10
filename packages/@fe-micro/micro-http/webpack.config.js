@@ -1,10 +1,9 @@
 /*
- * @Author: lingyong.zeng
- * @Date: 2021-05-06 19:59:15
- * @LastEditors: lingyong.zeng
- * @LastEditTime: 2021-05-06 20:21:53
- * @Description:
- * @FilePath: /packages/@micro/micro-http/webpack.config.js
+ * @Author: hongdong.liao
+ * @Date: 2021-05-08 11:57:59
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-05-10 15:52:05
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-http/webpack.config.js
  */
 const path = require('path');
 
@@ -22,8 +21,8 @@ module.exports = {
         'vue-router': 'VueRouter',
         'axios': 'axios',
         'vue': 'Vue',
-        '@micro/micro-util': 'microUtil',
-        '@micro/micro-core': 'microCore',
+        '@fe-micro/micro-util': 'microUtil',
+        '@fe-micro/micro-core': 'microCore',
         'async-validator': 'AsyncValidator',
         'nprogress': 'NProgress',
         'element-ui': 'ELEMENT',

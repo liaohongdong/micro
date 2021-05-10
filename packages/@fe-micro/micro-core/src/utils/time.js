@@ -1,12 +1,10 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-01-05 15:50:26
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-01-05 15:57:00
- * @FilePath: /micro/packages/@micro/micro-core/src/utils/time.js
- * @description 时间操作方法
+ * @LastEditTime: 2021-05-10 15:51:02
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/utils/time.js
  */
-
 import dayJs from "dayjs"
 import { _timeUnit } from '../config/settings';
 

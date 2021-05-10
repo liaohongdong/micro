@@ -1,9 +1,9 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-02-02 16:07:54
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-02-02 18:46:43
- * @FilePath: /micro/packages/@micro/micro-core/src/utils/flatRoute.js
+ * @LastEditTime: 2021-05-10 15:50:53
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/utils/flatRoute.js
  */
 /**
  * @param {*} item 菜单数据

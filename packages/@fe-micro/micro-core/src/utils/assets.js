@@ -1,13 +1,10 @@
 /*
- * @Author: lingyong.zeng
- * @Date: 2021-04-30 18:40:04
- * @LastEditors: lingyong.zeng
- * @LastEditTime: 2021-04-30 18:48:01
- * @Description:
- * @FilePath: /micro/packages/@micro/micro-core/src/utils/assets.js
+ * @Author: hongdong.liao
+ * @Date: 2021-05-08 11:57:59
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-05-10 15:50:44
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/utils/assets.js
  */
-// import variables from '../../styles/variables.scss';
-
 /**
  * 获取静态服务器地址, 在styles/variables.scss配置
  */

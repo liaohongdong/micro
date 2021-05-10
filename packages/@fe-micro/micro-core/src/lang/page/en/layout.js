@@ -1,9 +1,9 @@
 /*
  * @Author: hongdong.liao
- * @Date: 2021-02-22 12:15:03
+ * @Date: 2021-05-08 11:57:59
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-02-22 12:19:50
- * @FilePath: /micro/packages/@micro/micro-core/src/lang/en/app.js
+ * @LastEditTime: 2021-05-10 15:49:52
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-core/src/lang/page/en/layout.js
  */
 export default {
     logout: 'sign out',
