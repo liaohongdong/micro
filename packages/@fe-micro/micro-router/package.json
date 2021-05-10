@@ -1,7 +1,7 @@
 {
   "name": "@fe-micro/micro-router",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.2-alpha.9+e3eacf2",
+  "version": "0.0.2-alpha.18+49eefb5",
   "description": "微前端路由库",
   "license": "ISC",
   "main": "lib/index.js",
@@ -33,5 +33,5 @@
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-typescript": "^7.12.7"
   },
-  "gitHead": "e3eacf2cf98f89aa11c6d124691c63e96046b84a"
+  "gitHead": "49eefb5c2bf6fc94170ca77d6a0d906c0027f1fc"
 }

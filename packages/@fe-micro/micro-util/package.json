@@ -1,6 +1,6 @@
 {
   "name": "@fe-micro/micro-util",
-  "version": "0.0.2-alpha.9+e3eacf2",
+  "version": "0.0.2-alpha.18+49eefb5",
   "description": "> TODO: description",
   "author": "Sharly Liao, Yuancheng Cai, Xin Yi, Frank Wu, LingYong Zeng",
   "license": "Apache-2.0",
@@ -41,7 +41,7 @@
       "git add"
     ]
   },
-  "gitHead": "e3eacf2cf98f89aa11c6d124691c63e96046b84a",
+  "gitHead": "49eefb5c2bf6fc94170ca77d6a0d906c0027f1fc",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
     "@babel/core": "^7.14.0",
@@ -50,6 +50,7 @@
     "@babel/preset-env": "^7.14.1",
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
+    "@fe-micro/eslint-config-micro": "^1.0.1-alpha.18+49eefb5",
     "@types/chai": "^4.2.14",
     "@types/mocha": "^8.2.0",
     "@types/node": "^14.14.25",
@@ -64,7 +65,6 @@
     "cz-customizable": "^6.3.0",
     "del": "^6.0.0",
     "eslint": "^7.13.0",
-    "@fe-micro/eslint-config-micro": "^1.0.0",
     "gulp": "^4.0.2",
     "gulp-load-plugins": "^2.0.6",
     "gulp-nodemon": "^2.5.0",

@@ -1,7 +1,7 @@
 {
     "name": "@fe-micro/micro-core",
     "author": "hongdong.liao <liaodoho@gmail.com>",
-    "version": "1.0.0-alpha.21",
+    "version": "1.0.0-alpha.18+49eefb5",
     "description": "核心库",
     "homepage": "",
     "license": "ISC",
@@ -47,5 +47,5 @@
     "dependencies": {
         "dayjs": "^1.10.3"
     },
-    "gitHead": "e3eacf2cf98f89aa11c6d124691c63e96046b84a"
+    "gitHead": "49eefb5c2bf6fc94170ca77d6a0d906c0027f1fc"
 }
