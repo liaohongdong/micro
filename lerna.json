@@ -20,6 +20,9 @@
         "**/babel.config.js",
         "**/vue.config.js"
       ],
+      "ignore": [
+        "eslint-config-micro"
+      ],
       "message": "chore: publish"
     }
   }
