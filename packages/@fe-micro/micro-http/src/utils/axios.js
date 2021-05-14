@@ -2,7 +2,7 @@
  * @Author: hongdong.liao
  * @Date: 2021-01-05 16:59:25
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-05-10 15:32:57
+ * @LastEditTime: 2021-05-13 14:48:51
  * @FilePath: /microDemo/micro/packages/@fe-micro/micro-http/src/utils/axios.js
  * @description axios通信类封装
  */

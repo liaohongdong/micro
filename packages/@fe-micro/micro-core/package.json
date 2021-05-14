@@ -1,7 +1,7 @@
 {
     "name": "@fe-micro/micro-core",
     "author": "hongdong.liao <liaodoho@gmail.com>",
-    "version": "1.0.3-alpha.24+b1bbf5a",
+    "version": "1.0.3-alpha.25+6fd7020",
     "description": "核心库",
     "homepage": "",
     "license": "ISC",
@@ -45,8 +45,8 @@
         "webpack-cli": "^4.6.0"
     },
     "dependencies": {
-        "@fe-micro/micro-util": "^0.0.3-alpha.24+b1bbf5a",
+        "@fe-micro/micro-util": "^0.0.3-alpha.25+6fd7020",
         "dayjs": "^1.10.3"
     },
-    "gitHead": "b1bbf5a77d2e3a21f337df13581fba4cf1d84cf0"
+    "gitHead": "6fd702080013ccc89b2d0ed54880860b949fc750"
 }

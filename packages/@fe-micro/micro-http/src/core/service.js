@@ -1,9 +1,9 @@
 /*
  * @Author: hongdong.liao
  * @Date: 2021-01-05 18:17:05
- * @LastEditors: lingyong.zeng
- * @LastEditTime: 2021-05-06 09:05:12
- * @FilePath: /micro-http/src/core/service.js
+ * @LastEditors: hongdong.liao
+ * @LastEditTime: 2021-05-13 15:01:39
+ * @FilePath: /microDemo/micro/packages/@fe-micro/micro-http/src/core/service.js
  */
 import axios from 'axios';
 import Http from '../utils/http';
@@ -99,6 +99,7 @@ const options = {
     //       cancel: source.cancel,
     //   });
     // }
+    console.log(config, 102);
     return config;
   },
   respInterceptSuccess: res => {
@@ -163,5 +164,6 @@ const options = {
 
 // 实例化http
 const http = new Http(options);
+console.log(http, 167);
 
 export default http;

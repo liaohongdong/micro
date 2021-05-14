@@ -1,7 +1,7 @@
 {
   "name": "@fe-micro/micro-http",
   "author": "hongdong.liao <liaodoho@gmail.com>",
-  "version": "0.0.5-alpha.24+b1bbf5a",
+  "version": "0.0.5-alpha.25+6fd7020",
   "description": "网络通讯库",
   "keywords": [
     "http"
@@ -41,9 +41,10 @@
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
+    "@fe-micro/micro-router": "0.0.5-alpha.25",
     "axios": "^0.21.1",
     "element-ui": "^2.15.0",
     "nprogress": "^0.2.0"
   },
-  "gitHead": "b1bbf5a77d2e3a21f337df13581fba4cf1d84cf0"
+  "gitHead": "6fd702080013ccc89b2d0ed54880860b949fc750"
 }

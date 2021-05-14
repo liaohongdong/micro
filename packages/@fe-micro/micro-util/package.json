@@ -1,6 +1,6 @@
 {
   "name": "@fe-micro/micro-util",
-  "version": "0.0.3-alpha.24+b1bbf5a",
+  "version": "0.0.3-alpha.25+6fd7020",
   "description": "> TODO: description",
   "author": "Sharly Liao, Yuancheng Cai, Xin Yi, Frank Wu, LingYong Zeng",
   "license": "Apache-2.0",
@@ -41,7 +41,7 @@
       "git add"
     ]
   },
-  "gitHead": "b1bbf5a77d2e3a21f337df13581fba4cf1d84cf0",
+  "gitHead": "6fd702080013ccc89b2d0ed54880860b949fc750",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
     "@babel/core": "^7.14.0",
@@ -50,7 +50,7 @@
     "@babel/preset-env": "^7.14.1",
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "@fe-micro/eslint-config-micro": "^1.0.7-alpha.24+b1bbf5a",
+    "@fe-micro/eslint-config-micro": "^1.0.7-alpha.25+6fd7020",
     "@types/chai": "^4.2.14",
     "@types/mocha": "^8.2.0",
     "@types/node": "^14.14.25",
