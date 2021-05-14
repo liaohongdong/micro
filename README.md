@@ -2,17 +2,11 @@
  * @Author: hongdong.liao
  * @Date: 2021-01-18 18:48:10
  * @LastEditors: hongdong.liao
- * @LastEditTime: 2021-01-19 09:45:15
- * @FilePath: /micro/README.md
+ * @LastEditTime: 2021-05-14 12:13:05
+ * @FilePath: /microDemo/micro/README.md
 -->
-# micro
+lerna bootstrap 安装所有包的 node_modules
 
-> We build dreams for future
+lerna publish patch --canary 发布 alpha 版本到 npm 库
 
-# pack.js 说明：
-此脚本目前仅有登录功能，因考虑到密码需要保密，所以密码需要手动输入，邮箱获取git的全局user.email。此脚本windows和macOS通用
-<br>
-node命令运行,在控制台输入
-```nodejs
-node pack.js
-```
+lerna publish patch 发布正式版本到 npm 库
